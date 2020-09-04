@@ -1,3 +1,16 @@
+
+## 重新构建`Packages.bz2`
+```
+# 扫名当前目录下的 .deb 文件，生成 Packages 文件
+dpkg-scanpackages -m . /dev/null > Packages
+
+# 压缩 Packages 文件
+bzip2 Packages
+```
+
+
+
+
 # Reposi3
 A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootstrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
