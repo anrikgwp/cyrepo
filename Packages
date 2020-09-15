@@ -123,6 +123,22 @@ Multi-Arch: foreign
 Description: GNU lexer derived from Lex
 Name: Flex
 
+Package: gwp.anrik.mgtvlugins
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: Anrik
+Installed-Size: 80
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./gwp.anrik.mgtvlugins_0.0.1-3+debug_iphoneos-arm.deb
+Size: 8884
+MD5sum: 571c805b6d9873eaac71dc46a1b563ab
+SHA1: ef55e44ff8204237d0926f1f0765f79d24806fbf
+SHA256: e5c16f0c14b38afce16bbefa91831045d5a6d724b1eedd60c2206fa74be96f74
+Section: Tweaks
+Description: 芒果TV插件,自己开发测试,不得商业.后果自负
+Author: Anrik
+Name: MGTVPlugins
+
 Package: netskao.alipaysteps
 Version: 1.2-5
 Architecture: iphoneos-arm
