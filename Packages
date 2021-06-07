@@ -23,12 +23,13 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.anrik.aweme-tweak_0.1-1_iphoneos-arm.deb
-Size: 878472
-MD5sum: dedd1d2d2a9b01680d03d12926cee7b7
-SHA1: c6086290851ec275d911c0334ddd0e42193972f0
-SHA256: 968bc1b9c74ea53c915ce915d1a8828aff41b40ae274b53de5d7b90aed46dd07
+Size: 418288
+MD5sum: 9c13d438d9689603601958c0dde3af39
+SHA1: 612e16295a671ba784e2a8eadf230f8dad6f2fa9
+SHA256: f41cb9605048879727c3ab94008b79148e0cc7d215ebbf8c47b4c02bd856ab20
 Section: System
 Priority: optional
+Description: anrik抖音插件
 Author: Anrik
 Name: aweme_tweak
 
